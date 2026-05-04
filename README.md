@@ -3,7 +3,7 @@
 A comprehensive web-based password security tool featuring advanced generation capabilities, real-time strength analysis, and security best practices. Built with modern web technologies and cybersecurity principles.
 
 
-## ✨ Features
+## ✨ Features                                                                      
                                                                                                                                        
 ### **🎲 Advanced Password Generator**
 - **Customizable Length** - Generate passwords from 4 to 128 characters                            
