@@ -4,7 +4,7 @@ A comprehensive web-based password security tool featuring advanced generation c
                                                                  
 
 ## ✨ Features                                                                      
-                                                                                                                                       
+                                                                                                                                                                      
 ### **🎲 Advanced Password Generator**
 - **Customizable Length** - Generate passwords from 4 to 128 characters                            
 - **Character Set Control** - Toggle uppercase, lowercase, numbers, symbols                                                                
